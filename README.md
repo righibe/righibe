@@ -1,6 +1,6 @@
 # 👋 Hey, what's up? I`m Bernardo Righi!👨💻
 
-Sup, i'm Bernardo, live in Brazil and i'm learning computer ciensce since 2024!
+Sup, i'm Bernardo, i live in Brazil and i'm learning computer ciensce since 2024!
 
 ## Github Stats
 <div align="center">
