@@ -19,7 +19,7 @@ Sup, i'm Bernardo, live in Brazil and i'm learning computer ciensce since 2024!
 
 
 ## Socials
-[![Discord Presence](https://lanyard.cnrad.dev/api/1274150219482660897?hideStatus=true&hideClan=true&animatedDecoration=true&hideBadges=true&theme=dark)](https://discord.com/users/664656129770389545)
+[![Discord Presence](https://lanyard.cnrad.dev/api/664656129770389545?hideStatus=true&hideClan=true&animatedDecoration=true&hideBadges=true&theme=dark)](https://discord.com/users/664656129770389545)
 [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@righibro)
 [![EMAIL](https://skillicons.dev/icons?i=gmail)](mailto:bernardomicolrighi@outlook.com)
 [![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/664656129770389545)
