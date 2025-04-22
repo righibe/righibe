@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey, what's up? I`m Bernardo Righi!👨💻
 
-<!--
-**righibe/righibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sup, i'm Bernardo, live in Brazil and i'm learning computer ciensce since 2024!
 
-Here are some ideas to get you started:
+## Github Stats
+<div align="center">
+      <img width="400px" src="https://github-readme-stats.vercel.app/api?username=righibe&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
+      <img width="439px" src="https://github-readme-streak-stats.herokuapp.com/?user=righibe&theme=blue_navy&hide_border=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,vscode,git,github" />
+
+
+## Learning
+
+<img src="https://skillicons.dev/icons?i=python,java,csharp" />
+
+
+## Socials
+[![Discord Presence](https://lanyard.cnrad.dev/api/1274150219482660897?hideStatus=true&hideClan=true&animatedDecoration=true&hideBadges=true&theme=dark)](https://discord.com/users/664656129770389545)
+[![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@righibro)
+[![EMAIL](https://skillicons.dev/icons?i=gmail)](mailto:bernardomicolrighi@outlook.com)
+[![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/664656129770389545)
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/righi._)
