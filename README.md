@@ -10,7 +10,7 @@ Sup, i'm Bernardo, i live in Brazil and i'm learning computer ciensce since 2024
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=python,springboot,java,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=python,java,spring,git,github" />
 
 
 ## Learning
