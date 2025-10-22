@@ -1,6 +1,6 @@
 # 👋 Hey, what's up? I`m Bernardo Righi!👨💻
 
-Sup, i'm Bernardo, i live in Brazil and i'm learning computer ciensce since 2024! Join us in discord: https://discord.gg/uWMfTHqA
+Sup, i'm Bernardo, i live in Brazil and i'm learning computer ciensce since 2024! Join us in discord: https://discord.gg/programador
 
 ## Github Stats
 <div align="center">
