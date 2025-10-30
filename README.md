@@ -1,7 +1,7 @@
 # 👋 Hey, what's up? I`m Bernardo Righi!👨💻
 
-Sup, i'm Bernardo, i live in Brazil and i'm learning computer ciensce since 2024! Join us in discord: https://discord.gg/programador
-
+Sup, i'm Bernardo, i live in Brazil and i'm learning computer ciensce since 2024! Join us in discord: https://discord.gg/programador 
+<!-- qualquer coisa -->
 ## Github Stats
 <div align="center">
       <img width="400px" src="https://github-readme-stats.vercel.app/api?username=righibe&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
