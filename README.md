@@ -10,12 +10,12 @@ Sup, i'm Bernardo, i live in Brazil and i'm learning computer ciensce since 2026
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,git,github,linux,discord,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,spring,git,github,linux,discord,mysql," />
 
 
 ## Learning
 
-<img src="https://skillicons.dev/icons?i=python,java,c," />
+<img src="https://skillicons.dev/icons?i=python,java,c,aws" />
 
 
 ## Socials
