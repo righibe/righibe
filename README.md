@@ -15,7 +15,7 @@ Sup, i'm Bernardo, i live in Brazil and i'm learning computer ciensce since 2026
 
 ## Learning
 
-<img src="https://skillicons.dev/icons?i=python,java,csharp" />
+<img src="https://skillicons.dev/icons?i=python,java,csharp,n8n" />
 
 
 ## Socials
