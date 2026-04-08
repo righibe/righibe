@@ -5,7 +5,7 @@ I live in Brazil and i'm learning computer ciensce since 2024! Join us in discor
 ## Github Stats
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=righibe&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=righibe&theme=tokyonight"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=righibe&theme=tokyonight"/>
 </div>
 
 ## Languages and Tools
