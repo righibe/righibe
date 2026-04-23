@@ -3,7 +3,7 @@
 I live in Brazil and i'm learning computer ciensce since 2024! 
 Join us in discord: https://discord.gg/programador 
 
-righi.dev
+https://righi.dev
 
 ## Github Stats
 <div align="center">
