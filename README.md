@@ -13,7 +13,7 @@ https://righi.dev
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,git,github,linux,discord,mysql," />
+<img src="https://skillicons.dev/icons?i=python,java,spring,django,git,github,linux,discord,mysql," />
 
 
 ## Learning
