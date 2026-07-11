@@ -39,25 +39,19 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=righibe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=7AA2F7" />
-  <img height="170" src="https://streak-stats.demolab.com?user=righibe&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=righibe&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=righibe&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=7AA2F7&line=7AA2F7&point=FFFFFF" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=righibe&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <img height="180" src="https://streak-stats.demolab.com?user=righibe&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=righibe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=7AA2F7&cache_seconds=86400" />
 </div>
 
 ---
 
-### 🎧 Discord Presence
+### 💬 Discord
+
+<p align="center">
+  <a href="https://discord.gg/programador">
+    <img src="https://cardzera.audibert.dev/api/1112920281367973900?backgroundColor=1A1B27&buttonColor=7AA2F7&buttonTextColor=ffffff&buttonBorderRadius&borderRadius=10&buttonText=Join%20my%20dev%20community&t={timestamp}" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://discord.com/users/664656129770389545">
