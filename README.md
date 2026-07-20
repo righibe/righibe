@@ -40,7 +40,6 @@
 
 <div align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=righibe&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=righibe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=7AA2F7&cache_seconds=86400" />
 </div>
 
 ---
