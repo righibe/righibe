@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, sup? I'm Bernardo Righi!</h1>
+<h1 align="center">👋 Wasup? I'm Bernardo Righi!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Software+Developer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Computer+Science+Student;Coding+since+2024;Always+building+something+new" alt="Typing SVG" />
