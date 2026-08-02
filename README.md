@@ -16,9 +16,10 @@
 
 - 🌎 Living in **Brazil**
 - 📚 Studying **Computer Science** since **2024**
+- 💼 Currently working in a **Dell** project at Unisinos
 - 🌐 My website: **[righi.dev](https://righi.dev)**
 - 💬 Come hang out in our dev community on **[Discord](https://discord.gg/programador)**
-- ⚡ Fun fact: I'm always learning something new
+- ⚡ Fun fact: I love to travel around the world
 
 ---
 
