@@ -19,7 +19,7 @@
 - 💼 Currently working in a **Dell** project at Unisinos
 - 🌐 My website: **[righi.dev](https://righi.dev)**
 - 💬 Come hang out in our dev community on **[Discord](https://discord.gg/programador)**
-- ⚡ Fun fact: I love to travel around the world
+- ⚡ Fun fact: I've been to **21** countries, and I've also lived in **Germany** and **South Korea**.
 
 ---
 
