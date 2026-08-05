@@ -40,7 +40,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="[https://streak-stats.demolab.com?user=righibe&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&_=1](https://streak-stats.demolab.com?user=righibe&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&_=2)" />
+  <img height="180" src="https://streak-stats.demolab.com?user=righibe&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&_=2" />
 </div>
 
 ---
