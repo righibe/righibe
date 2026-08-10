@@ -26,13 +26,13 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,django,git,github,linux,discord,mysql,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,django,git,github,linux,kali,discord,mysql,docker,aws&theme=dark" />
 </p>
 
 ### 📖 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
 </p>
 
 ---
