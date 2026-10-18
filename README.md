@@ -28,19 +28,12 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,spring,django,git,github,linux,kali,discord,mysql,docker,aws&theme=dark" />
 </p>
-
-### 📖 Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
-</p>
-
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=righibe&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&_=3" />
+  <img height="180" src="https://streak-stats.demolab.com?user=righibe&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&_=4" />
 </div>
 
 ---
